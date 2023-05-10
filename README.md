@@ -1,0 +1,2 @@
+# billboard-prototype-2
+ローカル環境で前のリポジトリ(billboard-prototype)をアップデートしたので新しいリポジトリとしてアップデート後のコードを投稿
